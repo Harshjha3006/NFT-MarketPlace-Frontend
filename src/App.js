@@ -14,11 +14,19 @@ function App() {
   return (
     <>
       <Router>
-        <Header />
-        <Routes>
-          <Route exact path="/" element={<Home loading={loading} listedNfts={listedNfts} />}></Route>
-          <Route exact path="/sell-nft" element={<SellNft />}></Route>
-        </Routes>
+        <div style={{
+          backgroundImage: "url(" + require("./img/nftbgimage.jpg") + ")",
+          backgroundRepeat: "repeat", minWidth: "100vw", minHeight: "100vh",
+          backgroundSize: "cover",
+          backgroundAttachment: "fixed",
+          overflowX: "scroll"
+        }}>
+          <Header />
+          <Routes>
+            <Route exact path="/" element={<Home loading={loading} listedNfts={listedNfts} />}></Route>
+            <Route exact path="/sell-nft" element={<SellNft />}></Route>
+          </Routes>
+        </div>
       </Router>
     </>
   );

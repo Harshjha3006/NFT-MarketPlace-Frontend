@@ -80,18 +80,18 @@ function NFTBox({ price, seller, tokenId, nftAddress }) {
     return (
         <div>
             <div>
-                {imageUri ? <div>
+                {imageUri ? <div style={{ width: "200px", height: "150px", color: "#5A5A5A" }}>
                     <UpdateListingModal isVisible={showModal} nftAddress={nftAddress} tokenId={tokenId} onClose={hideModal}></UpdateListingModal>
-                    <Card title={tokenName} description={tokenDesc} onClick={handleCardClick}>
-                        <div className='p-2'>
+                    <Card title={tokenName} description={tokenDesc} onClick={handleCardClick} style={{ backgroundColor: "#5fb7cf" }}>
+                        <div className='p-2 '>
                             <div className="flex flex-col items-end gap-2">
                                 <div>#{tokenId}</div>
                                 <div className="italic text-sm">Owned By {formattedSeller}</div>
                                 <img className="mx-auto" height="200" width="200" src={imageUri} alt="nft"></img>
-                                <div className="text-bold">{ethers.formatEther(price)} ETH</div>
+                                <div className="text-bold" style={{ color: "black" }}>{ethers.formatEther(price)} ETH</div>
                             </div>
                         </div>
-                    </Card></div> : <div>Loading ...</div>}
+                    </Card></div> : <div></div>}
             </div>
         </div>
     )
