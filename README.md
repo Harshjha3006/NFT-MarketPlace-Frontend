@@ -135,6 +135,13 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Usage
+You Need to Have a Crypto Wallet Like MetaMask,CoinBase,etc. connected To Sepolia Network to Use this Application.
+<br>
+For Selling NFTs , you need to have the NFT address and Token Id of your NFT
+<br>
+If someone buys your NFT , you can withdraw your proceeds using the button provided on the sell-nft page 
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
