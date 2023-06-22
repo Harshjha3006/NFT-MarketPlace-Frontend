@@ -35,9 +35,9 @@
      A Digital platform that connects artists and collectors, facilitating the buying, selling, and trading of unique digital assets known as Non-Fungible Tokens (NFTs), which represent ownership and authenticity of digital art, collectibles, and other digital assets."
     <br />
     <br />
-    <a href="https://github.com/Harshjha3006/QuickCompete/issues">Report Bug</a>
+    <a href="https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Harshjha3006/QuickCompete/issues">Request Feature</a>
+    <a href="https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/issues">Request Feature</a>
   </p>
 </div>
 
@@ -167,7 +167,7 @@ Don't forget to give the project a star! Thanks again!
 
 Harsh Jha - harsh30jha@gmail.com
 
-Project Link: [https://github.com/Harshjha3006/QuickCompete](https://github.com/Harshjha3006/QuickCompete)
+Project Link: [https://github.com/Harshjha3006/NFT-MarketPlace-Frontend](https://github.com/Harshjha3006/NFT-MarketPlace-Frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,16 +178,16 @@ Project Link: [https://github.com/Harshjha3006/QuickCompete](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Harshjha3006/QuickCompete.svg?style=for-the-badge
-[contributors-url]: https://github.com/Harshjha3006/QuickCompete/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Harshjha3006/QuickCompete.svg?style=for-the-badge
-[forks-url]: https://github.com/Harshjha3006/QuickCompete/network/members
-[stars-shield]: https://img.shields.io/github/stars/Harshjha3006/QuickCompete.svg?style=for-the-badge
-[stars-url]: https://github.com/Harshjha3006/QuickCompete/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Harshjha3006/QuickCompete.svg?style=for-the-badge
-[issues-url]: https://github.com/Harshjha3006/QuickCompete/issues
-[license-shield]: https://img.shields.io/github/license/Harshjha3006/QuickCompete.svg?style=for-the-badge
-[license-url]: https://github.com/Harshjha3006/QuickCompete/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Harshjha3006/NFT-MarketPlace-Frontend.svg?style=for-the-badge
+[contributors-url]: https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Harshjha3006/NFT-MarketPlace-Frontend.svg?style=for-the-badge
+[forks-url]: https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/network/members
+[stars-shield]: https://img.shields.io/github/stars/Harshjha3006/NFT-MarketPlace-Frontend.svg?style=for-the-badge
+[stars-url]: https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Harshjha3006/NFT-MarketPlace-Frontend.svg?style=for-the-badge
+[issues-url]: https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/issues
+[license-shield]: https://img.shields.io/github/license/Harshjha3006/NFT-MarketPlace-Frontend.svg?style=for-the-badge
+[license-url]: https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/harsh-jha-3060b022a/
 [product-screenshot]: ./src/img/website%20screenshot.png
@@ -207,4 +207,4 @@ Project Link: [https://github.com/Harshjha3006/QuickCompete](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
-[def]: https://github.com/Harshjha3006/QuickCompete/src/img/demo.gif
+[def]: https://github.com/Harshjha3006/NFT-MarketPlace-Frontend/src/img/demo.gif
